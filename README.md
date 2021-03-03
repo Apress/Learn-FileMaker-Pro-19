@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Learn FileMaker Pro 19:The Comprehensive Guide to Building Custom Databases*](https://www.apress.com/9781484266793) by Mark Munro (Apress, 2021).
+This repository accompanies [*Learn FileMaker Pro 19:The Comprehensive Guide to Building Custom Databases*](https://www.apress.com/9781484266793) by Mark Conway Munro (Apress, 2021).
 
 [comment]: #cover
 ![Cover image](9781484266793.jpg)
