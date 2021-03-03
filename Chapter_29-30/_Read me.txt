@@ -1,0 +1,9 @@
+
+This file has security credentials setup. To open use:
+
+User: Admin
+Password: Password
+
+The FileMaker URL require that the Learn FileMaker database is open.
+
+The Snapshot Link Example will automatically open the database.
